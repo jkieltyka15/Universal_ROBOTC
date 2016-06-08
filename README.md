@@ -1,3 +1,1 @@
-# Universal_ROBOTC
-
-Please go to http://www.vexroboticsapis.weebly.com/ for more information.
+To be used with the VEX Robotics Cortex using the ROBOTC IDE.
